@@ -1,6 +1,6 @@
 # hcaptcha-solver
 
-# Working: 100%
+# I FIXED ALL PROBLEM WITH SOLVER 
 -------------------
 
 ## Say GoodBye to Paid Hcaptcha Solvers.
